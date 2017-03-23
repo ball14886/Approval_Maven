@@ -168,7 +168,7 @@
 
                                                 <div class="box_each_item">
                                                     <div class="box_image_item">
-                                                        <img src="/Images/1_Properties/ChairCrown.jpg" alt=""/>>
+                                                        <img src="/Images/1_Properties/ChairCrown.jpg" alt=""/>
                                                     </div>
                                                     <div class="box_info_item">
                                                         <span class="item_name">Crown Chair</span>
@@ -180,7 +180,7 @@
                                                 </div>
                                                 <div class="box_each_item">
                                                     <div class="box_image_item">
-                                                        <img src="/Images/1_Properties/ChairSteel.jpg" alt=""/>>
+                                                        <img src="/Images/1_Properties/ChairSteel.jpg" alt=""/>
                                                     </div>
                                                     <div class="box_info_item">
                                                         <span class="item_name">Steel Chair</span>
@@ -276,117 +276,121 @@
                                         <div class="form_group_row set_background_for_item">
                                             <label>Electricity</label>
                                             <div class="box_choice_itemList">
-                                                <%
-                                                    for (int i = 0; i < 3; i++)
-                                                    { %>
                                                 <div class="box_each_item">
                                                     <div class="box_image_item">
-                                                        <img src="http://www.bbhomegroup.com/wp-content/uploads/2015/08/%E0%B8%9B%E0%B8%A5%E0%B8%B1%E0%B9%8A%E0%B8%81%E0%B9%84%E0%B8%9F.jpg" />
+                                                        <img src="/Images/2_Technical/ExtensionCordsShort.jpg" alt=""/>
                                                     </div>
                                                     <div class="box_info_item">
-                                                        <span class="item_name">Chair</span>
+                                                        <span class="item_name">Short Electricity Outlets</span>
                                                         <div class="box_item_input">
                                                             <input class="input_item_quanlity form_control_textField" />
-                                                            <span class="item_unit">ตัว</span>
+                                                            <span class="item_unit">Unit</span>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <% } %>
-
-
+                                                <div class="box_each_item">
+                                                    <div class="box_image_item">
+                                                        <img src="/Images/2_Technical/ExtensionCordsLenght.jpg" alt=""/>
+                                                    </div>
+                                                    <div class="box_info_item">
+                                                        <span class="item_name">Long Electricity Outlets</span>
+                                                        <div class="box_item_input">
+                                                            <input class="input_item_quanlity form_control_textField" />
+                                                            <span class="item_unit">Unit</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="box_each_item">
+                                                    <div class="box_image_item">
+                                                        <img src="/Images/2_Technical/ExtensionCordsRoll.jpg" alt=""/>
+                                                    </div>
+                                                    <div class="box_info_item">
+                                                        <span class="item_name">Roll Electricity Outlets</span>
+                                                        <div class="box_item_input">
+                                                            <input class="input_item_quanlity form_control_textField" />
+                                                            <span class="item_unit">Unit</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                         <div class="form_group_row set_background_for_item">
                                             <label>Microphone</label>
                                             <div class="box_choice_itemList">
-                                                <%
-                                                    for (int i = 0; i < 3; i++)
-                                                    { %>
                                                 <div class="box_each_item">
                                                     <div class="box_image_item">
-                                                        <img src="https://www.bhphotovideo.com/images/images500x500/Shure_SM58_LC_SM58_LC_Cardioid_Dynamic_68463.jpg" />
+                                                        <img src="/Images/2_Technical/MicrophoneWithShortStand.jpg" alt=""/>
                                                     </div>
                                                     <div class="box_info_item">
-                                                        <span class="item_name">Chair</span>
+                                                        <span class="item_name">Short Microphone</span>
                                                         <div class="box_item_input">
                                                             <input class="input_item_quanlity form_control_textField" />
-                                                            <span class="item_unit">ตัว</span>
+                                                            <span class="item_unit">Unit</span>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <% } %>
-
-
+                                                <div class="box_each_item">
+                                                    <div class="box_image_item">
+                                                        <img src="/Images/2_Technical/MicrophoneWithStand.jpg" alt=""/>
+                                                    </div>
+                                                    <div class="box_info_item">
+                                                        <span class="item_name">High Microphone</span>
+                                                        <div class="box_item_input">
+                                                            <input class="input_item_quanlity form_control_textField" />
+                                                            <span class="item_unit">Unit</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
-
                                         <div class="form_group_row set_background_for_item">
                                             <label>Telephone</label>
                                             <div class="box_choice_itemList">
-                                                <%
-                                                    for (int i = 0; i < 3; i++)
-                                                    { %>
                                                 <div class="box_each_item">
                                                     <div class="box_image_item">
-                                                        <img src="http://www.bktrade.co.th/upload/product/CK-7568-1.jpg" />
+                                                        <img src="/Images/2_Technical/PhoneOfficeWhite.jpg" alt=""/>
                                                     </div>
                                                     <div class="box_info_item">
-                                                        <span class="item_name">Chair</span>
+                                                        <span class="item_name">Office phone</span>
                                                         <div class="box_item_input">
                                                             <input class="input_item_quanlity form_control_textField" />
-                                                            <span class="item_unit">ตัว</span>
+                                                            <span class="item_unit">Unit</span>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <% } %>
-
-
                                             </div>
                                         </div>
                                         <div class="form_group_row set_background_for_item">
                                             <label>Air conditioners</label>
                                             <div class="box_choice_itemList">
-                                                <%
-                                                    for (int i = 0; i < 3; i++)
-                                                    { %>
                                                 <div class="box_each_item">
                                                     <div class="box_image_item">
-                                                        <img src="https://www.fantasticfurniture.com.au/medias/?context=bWFzdGVyfGltYWdlcy9CTE1DSEExU1RPT09UVlJNQVB8NjA1MDJ8aW1hZ2UvanBlZ3xpbWFnZXMvQkxNQ0hBMVNUT09PVFZSTUFQL2g3OS9oODcvODc5OTUxODEzMDIwNi5qcGd8ZmJlNjYxOWNiZDFiZDRiM2I4M2M4ZWYyNDc3ZDZlYmExZTlkMTI1MmUyZTdlZjQ4OGJkMGRiMWUyM2MwODUzYQ" />
-                                                    </div>
+                                                        <img src="/Images/2_Technical/AirConditioner.jpg" alt=""/></div>
                                                     <div class="box_info_item">
-                                                        <span class="item_name">Chair</span>
+                                                        <span class="item_name">Air Conditioner</span>
                                                         <div class="box_item_input">
                                                             <input class="input_item_quanlity form_control_textField" />
-                                                            <span class="item_unit">ตัว</span>
+                                                            <span class="item_unit">Unit</span>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <% } %>
-
-
                                             </div>
                                         </div>
                                         <div class="form_group_row set_background_for_item">
                                             <label>Sound</label>
                                             <div class="box_choice_itemList">
-                                                <%
-                                                    for (int i = 0; i < 3; i++)
-                                                    { %>
                                                 <div class="box_each_item">
                                                     <div class="box_image_item">
-                                                        <img src="http://www.wiselifethai.com/sound/product/qsc/images/qsc_cx_amplifier.jpg" />
+                                                        <img src="/Images/2_Technical/SoundService.jpg" alt=""/>
                                                     </div>
                                                     <div class="box_info_item">
-                                                        <span class="item_name">Chair</span>
+                                                        <span class="item_name">Sound Services</span>
                                                         <div class="box_item_input">
                                                             <input class="input_item_quanlity form_control_textField" />
-                                                            <span class="item_unit">ตัว</span>
+                                                            <span class="item_unit">Unit</span>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <% } %>
-
-
                                             </div>
                                         </div>
                                         <div class="form_group_row">
@@ -412,70 +416,63 @@
                                         <div class="form_group_row set_background_for_item">
                                             <label>Microphone</label>
                                             <div class="box_choice_itemList">
-                                                <%
-                                                    for (int i = 0; i < 3; i++)
-                                                    { %>
                                                 <div class="box_each_item">
                                                     <div class="box_image_item">
-                                                        <img src="http://www.toa.jp/assets/images/TOAProduct/dm1300_pn1e.jpg" />
+                                                        <img src="/Images/3_Sound & Light/MicrophoneWithShortStand.jpg" alt=""/>
                                                     </div>
                                                     <div class="box_info_item">
-                                                        <span class="item_name">Chair</span>
+                                                        <span class="item_name">Short Microphone</span>
                                                         <div class="box_item_input">
                                                             <input class="input_item_quanlity form_control_textField" />
-                                                            <span class="item_unit">ตัว</span>
+                                                            <span class="item_unit">Unit</span>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <% } %>
-
-
-                                            </div>
-                                        </div>
-                                        <div class="form_group_row set_background_for_item">
-                                            <label>Microphone</label>
-                                            <div class="box_choice_itemList">
-                                                <%
-                                                    for (int i = 0; i < 3; i++)
-                                                    { %>
                                                 <div class="box_each_item">
                                                     <div class="box_image_item">
-                                                        <img src="https://www.bhphotovideo.com/images/images500x500/Shure_SM58_LC_SM58_LC_Cardioid_Dynamic_68463.jpg" />
+                                                        <img src="/Images/3_Sound & Light/MicrophoneWithStand.jpg" alt=""/>
                                                     </div>
                                                     <div class="box_info_item">
-                                                        <span class="item_name">Chair</span>
+                                                        <span class="item_name">High Microphone</span>
                                                         <div class="box_item_input">
                                                             <input class="input_item_quanlity form_control_textField" />
-                                                            <span class="item_unit">ตัว</span>
+                                                            <span class="item_unit">Unit</span>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <% } %>
-
-
                                             </div>
                                         </div>
                                         <div class="form_group_row set_background_for_item">
                                             <label>Projector</label>
                                             <div class="box_choice_itemList">
-                                                <%
-                                                    for (int i = 0; i < 3; i++)
-                                                    { %>
                                                 <div class="box_each_item">
                                                     <div class="box_image_item">
-                                                        <img src="http://www.projectorreviews.com/resize/622x335/r/wp-content/uploads/2015/04/G6550WU_front-beauty.jpg" />
-                                                    </div>
+                                                        <img src="/Images/3_Sound & Light/Projector.jpg" alt=""/></div>
                                                     <div class="box_info_item">
-                                                        <span class="item_name">Chair</span>
+                                                        <span class="item_name">Projector</span>
                                                         <div class="box_item_input">
                                                             <input class="input_item_quanlity form_control_textField" />
-                                                            <span class="item_unit">ตัว</span>
+                                                            <span class="item_unit">Unit</span>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <% } %>
-
-
+                                            </div>
+                                        </div>
+                                        <div class="form_group_row set_background_for_item">
+                                            <label>Projector Screen</label>
+                                            <div class="box_choice_itemList">
+                                                <div class="box_each_item">
+                                                    <div class="box_image_item">
+                                                        <img src="/Images/3_Sound & Light/ProjectorScreen01.jpg" alt=""/>
+                                                    </div>
+                                                    <div class="box_info_item">
+                                                        <span class="item_name">Movable Projector Screen</span>
+                                                        <div class="box_item_input">
+                                                            <input class="input_item_quanlity form_control_textField" />
+                                                            <span class="item_unit">Unit</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                         <div class="form_group_row">
@@ -501,47 +498,35 @@
                                         <div class="form_group_row set_background_for_item">
                                             <label>Foam</label>
                                             <div class="box_choice_itemList">
-                                                <%
-                                                    for (int i = 0; i < 3; i++)
-                                                    { %>
                                                 <div class="box_each_item">
                                                     <div class="box_image_item">
-                                                        <img src="http://architservice.kku.ac.th/wp-content/uploads/2014/07/IMG_0685.jpg" />
+                                                        <img src="/Images/4_Arts & Culture/FoamLetters.jpg" alt=""/>
                                                     </div>
                                                     <div class="box_info_item">
-                                                        <span class="item_name">Form</span>
+                                                        <span class="item_name">Form Letters</span>
                                                         <div class="box_item_input">
                                                             <input class="input_item_quanlity form_control_textField" />
-                                                            <span class="item_unit">ตัว</span>
+                                                            <span class="item_unit">Unit</span>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <% } %>
-
-
                                             </div>
                                         </div>
                                         <div class="form_group_row set_background_for_item">
-                                            <label>ป้ายบอกทาง</label>
+                                            <label>Direction Sign</label>
                                             <div class="box_choice_itemList">
-                                                <%
-                                                    for (int i = 0; i < 3; i++)
-                                                    { %>
                                                 <div class="box_each_item">
                                                     <div class="box_image_item">
-                                                        <img src="http://ร้านป้ายยโสธร.com/pic4/DSC09580.JPG" />
+                                                        <img src="/Images/4_Arts & Culture/DirectionSign.jpg" alt=""/>
                                                     </div>
                                                     <div class="box_info_item">
-                                                        <span class="item_name">Chair</span>
+                                                        <span class="item_name">Direction Signs</span>
                                                         <div class="box_item_input">
                                                             <input class="input_item_quanlity form_control_textField" />
-                                                            <span class="item_unit">ตัว</span>
+                                                            <span class="item_unit">Unit</span>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <% } %>
-
-
                                             </div>
                                         </div>
                                         <div class="form_group_row">
@@ -565,49 +550,37 @@
                                 <div class="col_percent_8 set_padding_right_15">
                                     <form action="#" method="POST" data-parsley-validate="true">
                                         <div class="form_group_row set_background_for_item">
-                                            <label>ที่จอดรถ</label>
+                                            <label>Security Officers</label>
                                             <div class="box_choice_itemList">
-                                                <%
-                                                    for (int i = 0; i < 3; i++)
-                                                    { %>
                                                 <div class="box_each_item">
                                                     <div class="box_image_item">
-                                                        <img src="http://benigntrading.com/gallery/TB021.jpg" />
+                                                        <img src="/Images/5_Security/SecurityOfficer.jpg" alt=""/>
                                                     </div>
                                                     <div class="box_info_item">
-                                                        <span class="item_name">ส่วนบุคคล</span>
+                                                        <span class="item_name">Security Officer</span>
                                                         <div class="box_item_input">
                                                             <input class="input_item_quanlity form_control_textField" />
-                                                            <span class="item_unit">คัน</span>
+                                                            <span class="item_unit">Unit</span>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <% } %>
-
-
                                             </div>
                                         </div>
                                         <div class="form_group_row set_background_for_item">
-                                            <label>พนักงานรักษาความปลอดภัย</label>
+                                            <label>Parking Area</label>
                                             <div class="box_choice_itemList">
-                                                <%
-                                                    for (int i = 0; i < 3; i++)
-                                                    { %>
                                                 <div class="box_each_item">
                                                     <div class="box_image_item">
-                                                        <img src="http://www.ikea.com/PIAimages/0449258_PE598767_S5.JPG" />
+                                                        <img src="/Images/5_Security/ParkingArea.jpg" alt=""/>
                                                     </div>
                                                     <div class="box_info_item">
-                                                        <span class="item_name">123</span>
+                                                        <span class="item_name">Parking Area</span>
                                                         <div class="box_item_input">
                                                             <input class="input_item_quanlity form_control_textField" />
-                                                            <span class="item_unit">คน</span>
+                                                            <span class="item_unit">Unit</span>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <% } %>
-
-
                                             </div>
                                         </div>
                                         <div class="form_group_row">
@@ -631,119 +604,71 @@
                                 <div class="col_percent_8 set_padding_right_15">
                                     <form action="#" method="POST" data-parsley-validate="true">
                                         <div class="form_group_row set_background_for_item">
-                                            <label>LCD Projector</label>
+                                            <label>Projector Screen</label>
                                             <div class="box_choice_itemList">
-                                                <%
-                                                    for (int i = 0; i < 3; i++)
-                                                    { %>
                                                 <div class="box_each_item">
                                                     <div class="box_image_item">
-                                                        <img src="https://img.tradeindia.com/fp/5/592/216.jpg" />
+                                                        <img src="/Images/6_IT/ProjectorScreen01.jpg" alt=""/>
                                                     </div>
                                                     <div class="box_info_item">
-                                                        <span class="item_name">Projector</span>
+                                                        <span class="item_name">Movable Projector Screen</span>
                                                         <div class="box_item_input">
                                                             <input class="input_item_quanlity form_control_textField" />
-                                                            <span class="item_unit">ตัว</span>
+                                                            <span class="item_unit">Unit</span>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <% } %>
-
-
                                             </div>
                                         </div>
                                         <div class="form_group_row set_background_for_item">
-                                            <label>Notebook</label>
+                                            <label>Laptop</label>
                                             <div class="box_choice_itemList">
-                                                <%
-                                                    for (int i = 0; i < 3; i++)
-                                                    { %>
                                                 <div class="box_each_item">
                                                     <div class="box_image_item">
-                                                        <img src="https://notebookspec.com/nbs/upload_notebook/20160329-143740_ASUS_VivoBook_E200HA-US01.jpg" />
+                                                        <img src="/Images/6_IT/Laptop01.jpg" alt=""/>
                                                     </div>
                                                     <div class="box_info_item">
-                                                        <span class="item_name">Notebook</span>
+                                                        <span class="item_name">Laptop</span>
                                                         <div class="box_item_input">
                                                             <input class="input_item_quanlity form_control_textField" />
-                                                            <span class="item_unit">ตัว</span>
+                                                            <span class="item_unit">Unit</span>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <% } %>
-
-
                                             </div>
                                         </div>
-
                                         <div class="form_group_row set_background_for_item">
                                             <label>Computer</label>
                                             <div class="box_choice_itemList">
-                                                <%
-                                                    for (int i = 0; i < 3; i++)
-                                                    { %>
                                                 <div class="box_each_item">
                                                     <div class="box_image_item">
-                                                        <img src="http://www.ekkapol.com/images/acer.jpg" />
+                                                        <img src="/Images/6_IT/Computer01.jpg" alt=""/>
                                                     </div>
                                                     <div class="box_info_item">
                                                         <span class="item_name">Computer</span>
                                                         <div class="box_item_input">
                                                             <input class="input_item_quanlity form_control_textField" />
-                                                            <span class="item_unit">ตัว</span>
+                                                            <span class="item_unit">Unit</span>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <% } %>
-
-
                                             </div>
                                         </div>
                                         <div class="form_group_row set_background_for_item">
                                             <label>Visualizer</label>
                                             <div class="box_choice_itemList">
-                                                <%
-                                                    for (int i = 0; i < 3; i++)
-                                                    { %>
                                                 <div class="box_each_item">
                                                     <div class="box_image_item">
-                                                        <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87.jpg" />
+                                                        <img src="/Images/6_IT/Projector01.jpg" alt=""/>
                                                     </div>
                                                     <div class="box_info_item">
-                                                        <span class="item_name">Visualizer</span>
+                                                        <span class="item_name">Projector</span>
                                                         <div class="box_item_input">
                                                             <input class="input_item_quanlity form_control_textField" />
-                                                            <span class="item_unit">เครื่อง</span>
+                                                            <span class="item_unit">Unit</span>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <% } %>
-
-
-                                            </div>
-                                        </div>
-                                        <div class="form_group_row set_background_for_item">
-                                            <label>Screen</label>
-                                            <div class="box_choice_itemList">
-                                                <%
-                                                    for (int i = 0; i < 3; i++)
-                                                    { %>
-                                                <div class="box_each_item">
-                                                    <div class="box_image_item">
-                                                        <img src="http://www.techtravelagent.com/images/ProjectorScreen.jpg" />
-                                                    </div>
-                                                    <div class="box_info_item">
-                                                        <span class="item_name">Screen</span>
-                                                        <div class="box_item_input">
-                                                            <input class="input_item_quanlity form_control_textField" />
-                                                            <span class="item_unit">จอ</span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <% } %>
-
-
                                             </div>
                                         </div>
                                         <div class="form_group_row">
